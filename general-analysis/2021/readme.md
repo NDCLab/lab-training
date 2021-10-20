@@ -63,9 +63,9 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 
 **Before the next meeting:**
 * Complete [modules 1-4](https://swcarpentry.github.io/r-novice-gapminder/)
-> (1) Introduction to R and RStudio
-> (2) Project Management With RStudio _(but we will likely diverge from the recommendations in this section)_
-> (3) Seeking Help
+> (1) Introduction to R and RStudio</br>
+> (2) Project Management With RStudio _(but we will likely diverge from the recommendations in this section)_</br>
+> (3) Seeking Help</br>
 > (4) Data Structures
  
 #### Week 3
@@ -80,7 +80,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 **Before the next meeting:**
 * Complete [modules 5-6](https://swcarpentry.github.io/r-novice-gapminder/)
 
-> (5) Exploring Data Frames
+> (5) Exploring Data Frames</br>
 > (6) Subsetting Data
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
  
@@ -91,7 +91,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 
 **Before the next meeting:**
 * Complete [modules 7 and 9](https://swcarpentry.github.io/r-novice-gapminder/)
-> (7) Control Flow
+> (7) Control Flow</br>
 > (9) Vectorization
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
 
