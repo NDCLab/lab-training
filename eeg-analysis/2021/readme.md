@@ -80,10 +80,6 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 * Clone the [MADE Pipeline repo](https://github.com/ChildDevLab/MADE-EEG-preprocessing-pipeline)
 * Download the example dataset:  Link TBD
 * Watch MADE-tutorial-1 and perform exercises: Link TBD
-
-> (5) Exploring Data Frames</br>
-> (6) Subsetting Data
-* Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
  
 #### Week 5 (Oct. 22)
 **During the meeting:**
@@ -97,7 +93,7 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 
 #### Week 7 (Nov. 5)
 **During the meeting:**
-1.Q/A for MADE-tutorial-2
+1. Q/A for MADE-tutorial-2
 2. Additional MADE examples/exercises
 3. Q/A for ERP-tutorial-1
 4. Additional ERP examples/exercises
