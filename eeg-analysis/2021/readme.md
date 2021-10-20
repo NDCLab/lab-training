@@ -67,7 +67,7 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 * Read the following three concept pages from the EEGLAB tutorial:
     - [EEGLAB data structures](https://eeglab.org/tutorials/ConceptsGuide/Data_Structures.html)
     - [Coordinate systems](https://eeglab.org/tutorials/ConceptsGuide/coordinateSystem.html)
-    - [EEGLAB functions](https://eeglab.org/tutorials/ConceptsGuide/EEGLAB_functions.html
+    - [EEGLAB functions](https://eeglab.org/tutorials/ConceptsGuide/EEGLAB_functions.html)
 * Read the MADE Pipeline paper (Debnath_Buzzell_et_al_2020.pdf)
  
 #### Week 3
