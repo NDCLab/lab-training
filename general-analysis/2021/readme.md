@@ -35,24 +35,19 @@ The structure is subject to change, but initially, we will adopt a more formal s
 Who will lead the live meetings each week? Sometimes George, sometimes others. The goal of this working group is to create an environment in which we learn together and teach each other how to analyze data.
  
 ## Topics to Cover
-**Basic descriptive statistics**
-Mean, Standard Deviation, Standard Error, when to log-transform, outlier detection
-
-* “Standard” processing stream for behavioral data
-Import data, reformat, remove unnecessary rows/columns, (re)label/annotate, select relevant data and compute metrics of interest, outlier detection
-
-* Basic inferential statistics and associated plots
+* **Basic descriptive statistics:** Mean, Standard Deviation, Standard Error, when to log-transform, outlier detection
+* **“Standard” processing stream for behavioral data:** Import data, reformat, remove unnecessary rows/columns, (re)label/annotate, select relevant data and compute metrics of interest, outlier detection
+* **Basic inferential statistics and associated plots:**
 T-tests (repeated vs independent), correlation, partial correlation
 Bar plots, Line plots, scatter plots, Corellelegram, denoting standard error
+* **“Standard” processing stream for questionnaire data**
 
-* “Standard” processing stream for questionnaire data
-
-**Intermediate statistics**
+#### Intermediate statistics**
 * ANOVA
 * Simple regression models
 * Factor analysis
 
-**“Advanced” statistics**
+#### “Advanced” statistics**
 * Hierarchical linear modelling
 * Structural equation modelling
 * Mediation
@@ -68,6 +63,7 @@ Bar plots, Line plots, scatter plots, Corellelegram, denoting standard error
 
 **Before the next meeting:**
 * Complete [modules 1-4](https://swcarpentry.github.io/r-novice-gapminder/)
+
     (1) Introduction to R and RStudio
     (2) Project Management With RStudio _(but we will likely diverge from the recommendations in this section)_
     (3) Seeking Help
@@ -84,6 +80,7 @@ Bar plots, Line plots, scatter plots, Corellelegram, denoting standard error
 
 **Before the next meeting:**
 * Complete [modules 5-6](https://swcarpentry.github.io/r-novice-gapminder/)
+
     (5) Exploring Data Frames
     (6) Subsetting Data
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
