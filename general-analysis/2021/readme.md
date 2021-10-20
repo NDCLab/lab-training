@@ -38,8 +38,8 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 * **Basic descriptive statistics:** Mean, Standard Deviation, Standard Error, when to log-transform, outlier detection
 * **“Standard” processing stream for behavioral data:** Import data, reformat, remove unnecessary rows/columns, (re)label/annotate, select relevant data and compute metrics of interest, outlier detection
 * **Basic inferential statistics and associated plots:**
-T-tests (repeated vs independent), correlation, partial correlation
-Bar plots, Line plots, scatter plots, Corellelegram, denoting standard error
+    * T-tests (repeated vs independent), correlation, partial correlation
+    * Bar plots, Line plots, scatter plots, Corellelegram, denoting standard error
 * **“Standard” processing stream for questionnaire data**
 
 #### Intermediate statistics**
@@ -63,11 +63,10 @@ Bar plots, Line plots, scatter plots, Corellelegram, denoting standard error
 
 **Before the next meeting:**
 * Complete [modules 1-4](https://swcarpentry.github.io/r-novice-gapminder/)
-
-    (1) Introduction to R and RStudio
-    (2) Project Management With RStudio _(but we will likely diverge from the recommendations in this section)_
-    (3) Seeking Help
-    (4) Data Structures
+> (1) Introduction to R and RStudio
+> (2) Project Management With RStudio _(but we will likely diverge from the recommendations in this section)_
+> (3) Seeking Help
+> (4) Data Structures
  
 #### Week 3
 **During the meeting:**
@@ -81,8 +80,8 @@ Bar plots, Line plots, scatter plots, Corellelegram, denoting standard error
 **Before the next meeting:**
 * Complete [modules 5-6](https://swcarpentry.github.io/r-novice-gapminder/)
 
-    (5) Exploring Data Frames
-    (6) Subsetting Data
+> (5) Exploring Data Frames
+> (6) Subsetting Data
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
  
 #### Week 5 (Oct. 22)
@@ -92,8 +91,8 @@ Bar plots, Line plots, scatter plots, Corellelegram, denoting standard error
 
 **Before the next meeting:**
 * Complete [modules 7 and 9](https://swcarpentry.github.io/r-novice-gapminder/)
-    (7) Control Flow
-    (9) Vectorization
+> (7) Control Flow
+> (9) Vectorization
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
 
 #### Week 7 (Nov. 5)
@@ -103,7 +102,7 @@ Bar plots, Line plots, scatter plots, Corellelegram, denoting standard error
 
 **Before the next meeting:**
 * Complete [module 8](https://swcarpentry.github.io/r-novice-gapminder/)
-    (8) Creating Publication-Quality Graphics with ggplot2
+> (8) Creating Publication-Quality Graphics with ggplot2
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
 
 #### Week 9 (Nov. 19)
