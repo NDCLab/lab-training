@@ -86,8 +86,9 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
  
 #### Week 5 (Oct. 22)
 **During the meeting:**
-1. Quick review and Q/A for modules 5-6
-2. Apply the lessons of module 5/6 to our own data (same data as last meeting)
+1. Admin: Discuss pace of modules and goals. Discuss format/focus of live sessions.
+2. Quick review and Q/A for modules 5-6
+3. Apply the lessons of module 5/6 to our own data (same data as last meeting)
 
 **Before the next meeting:**
 * Complete [modules 7 and 9](https://swcarpentry.github.io/r-novice-gapminder/)
