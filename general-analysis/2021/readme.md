@@ -94,7 +94,9 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 * Complete [modules 7 and 9](https://swcarpentry.github.io/r-novice-gapminder/)
 > (7) Control Flow</br>
 > (9) Vectorization
+> GB's Must-Know Concepts: TBD
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
+* Reminder: refresh your memory about these modules the day before the next working group session and check the "Must-Know Concepts" to come prepared for the Q&A :raised_hand:
 
 #### Week 7 (Nov. 5)
 **During the meeting:**
