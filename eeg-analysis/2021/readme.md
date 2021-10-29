@@ -86,7 +86,7 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 **During the meeting:**
 * Note that data and video(s) were not posted in time. Thus, the live session this week will be slightly different, involving a live walk-through of some of the code, along with normal discussion. 
 1. Continue discussion of MADE paper
-2. MADE-tutorial-1 (live walk through)
+2. MADE-tutorial-1 (live walk through); download this zip file: https://drive.google.com/file/d/1MJYtmuiyxevA20BrQgTABnFAWS0KYJyX/view?usp=sharing
 3. Q/A for MADE-tutorial-1
 
 **Before the next meeting:**
