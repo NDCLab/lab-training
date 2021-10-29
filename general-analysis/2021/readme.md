@@ -94,7 +94,8 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 * Complete [modules 7 and 9](https://swcarpentry.github.io/r-novice-gapminder/)
 > (7) Control Flow</br>
 > (9) Vectorization</br>
-> GB's Must-Know Concepts: TBD
+> GB's Must-Know Concepts: If/else, for loops, nested if/else and nested for loops. You should be comfortable combing these concepts to control the flow/analyses of any analysis script you will write (i.e. looping over participants/conditions, performing different analyses or pulling different data based on the evaluation of a single if/else statement or a more complicated nested set of statements. You should also be comforable with the concept of performing the same operation on an entire vector/matrix vs. applying the operation to a specific position/cell. Lastly, you should understand the difference between elementwise multiplication vs. matrix multiplication.
+> 
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
 * _Reminder:_ refresh your memory about these modules the day before the next working group session and check the "Must-Know Concepts" to come prepared for the Q&A :raised_hand:
 
