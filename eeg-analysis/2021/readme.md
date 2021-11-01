@@ -91,8 +91,12 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 4. General Q/A for MADE-tutorial-1
 
 **Before the next meeting:**
-* Watch MADE-tutorial-1 as a review of what was covered during the prior live session: LINK
-* Watch MADE-tutorial-2 and perform exercises: LINK
+* Watch the following MADE tutorial videos and run the analyses on your local computer
+*part 1: https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635762959000
+*part 2: https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635765974000
+*part 3:  https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635769006000
+*part 4:  TBD
+*part 5:  TBD
 
 #### Week 7 (Nov. 5)
 **During the meeting:**
