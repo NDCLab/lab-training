@@ -102,7 +102,8 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 #### Week 7 (Nov. 5)
 **During the meeting:**
 1. Quick review and Q/A for modules 7 and 9
-2. Apply the lessons of module 7 and 9 to our own data (same data as last meeting)
+2. Apply the lessons of module 7 and 9 to our own data: https://drive.google.com/file/d/1n-3BoSPBkYQmAjs9YrD4LEwz2dILRsDX/view?usp=sharing
+3. If time: explore the group results and/or start creating a similar script for other data
 
 **Before the next meeting:**
 * Complete [module 8](https://swcarpentry.github.io/r-novice-gapminder/)
