@@ -102,12 +102,12 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 #### Week 7 (Nov. 5)
 **During the meeting:**
 1. Quick review and Q/A for modules 7 and 9
-2. Apply the lessons of module 7 and 9 to our own data: https://drive.google.com/file/d/1n-3BoSPBkYQmAjs9YrD4LEwz2dILRsDX/view?usp=sharing
+2. Apply the lessons of module 7 and 9 to our [own data](https://drive.google.com/file/d/1n-3BoSPBkYQmAjs9YrD4LEwz2dILRsDX/view?usp=sharing)
 3. If time: explore the group results and/or start creating a similar script for other data
 
 **Before the next meeting:**
-* Complete [module 8](https://swcarpentry.github.io/r-novice-gapminder/)
-> (8) Creating Publication-Quality Graphics with ggplot2
+* Adapt the Week 7 script for the [DCCS](dccs-coding.txt) and N-Back tasks
+* Complete [module TBD](link) for simple descriptive and inferential statistics
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
 
 #### Week 9 (Nov. 19)
@@ -116,6 +116,8 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 2. Apply the lessons of XX to our own data (same data as last meeting)
 
 **Before the next meeting:**
+* Complete [module 8](https://swcarpentry.github.io/r-novice-gapminder/)
+> (8) Creating Publication-Quality Graphics with ggplot2
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
  
 #### Week 11 (Dec. 3)
