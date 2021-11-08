@@ -106,7 +106,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 3. If time: explore the group results and/or start creating a similar script for other data
 
 **Before the next meeting:**
-* Adapt the Week 7 script for the [DCCS](dccs-coding.txt) and N-Back tasks
+* Adapt the Week 7 script for the [DCCS](dccs-coding.md) and N-Back tasks
 * Complete [module TBD](link) for simple descriptive and inferential statistics
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
 
