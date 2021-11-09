@@ -1,4 +1,4 @@
-# Gen Analysis Working Group - Week 6
+# Gen Analysis Working Group - Week 7
 
 #goals:
 # update our prior script to loop over participants
@@ -6,10 +6,10 @@
 #if more time: start creating a similar script for other tasks (DCCS, n-Back, 3 multi-ef tasks)
 
 #set up root dir for data to be processed
-data_path <- '/Users/gbuzzell/Documents/pavlovia/'
+data_path <- '/Users/arinapolyanskaya/Desktop/example_pavlovia_dat/pavlovia'
 
 #set up output dir and file name
-out_path <- '/Users/gbuzzell/Documents/pavlovia/'
+out_path <- '/Users/arinapolyanskaya/Desktop/example_pavlovia_dat/pavlovia'
 proc_fileName <- "2021-11-05_flanker_behavior_summary.txt"
 
 #pull out all the subfolders (participant folders) for the root data dir

@@ -1,0 +1,9 @@
+1.	Load in raw csv file for a given participant.
+2.	The first few rows, that are offset from the rest are practice trials and should be ignored (6 trials two times).
+3.	Delete rows that are empty, and the first two trials (those do not really have right answers).
+4.	Of the remaining experimental trials, create a selection vector to identify rows corresponding to n-repeat stimuli. Similarly, create an additional selection vector to identify rows corresponding to n-no-repeat stimuli. Key ‘z’ corresponds to repeat trials, ‘m’ corresponds to no-repeat trials.
+5.	Using the n-repeat and n-no-repeat selection vectors, pull out the RT and accuracy values, separately for n-repeat and n-no-repeat trials.
+6.	For the accuracy data, simply take the average across trials, separately for n-repeat and n-no-repeat. Save these values.
+7.	For RT, you will similarly compute average RT, separately for n-repeat and n-no-repeat trials, but do this twice, once after log transforming (ln) and once using the raw RT values.
+8.	You should now have the following average values for this participant (one csv input per participant): n-repeat-mean-accuracy, n-no-repeat-mean-accuracy, n-repeat-mean-rt, n-no-repeat-mean-rt, n-repeat-mean-log-rt, n-no-repeat-mean-log-rt. Using these values, you want to create a difference score for each pair of similar repeat/no-repeat values by taking the no-repeat value (e.g. no-n-repeat-mean-accuracy) and subtracting the corresponding repeat value (e.g. n-repeat-mean-accuracy) and then naming this as "nback-effect-measure" e.g. "nback-effect-accuracy”.
+9.	You now have several mean scores, and several mean "nback effect" scores for this participant. Store these in a data frame, with an additional column variable that is their id number, and repeat the process for the remaining participants, adding their mean and flanker effect scores to the same data frame.
