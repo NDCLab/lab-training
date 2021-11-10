@@ -98,7 +98,7 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 *part 4:  TBD
 *part 5:  TBD
 
-#### Week 7 (Nov. 5)
+#### Week 7 (Nov. 12)
 **During the meeting:**
 1. Q/A for MADE-tutorial-2
 2. Additional MADE examples/exercises
@@ -107,7 +107,7 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 * Watch ERP-tutorial-1 and perform exercises: LINK
 * Watch ERP-tutorial-2 and perform exercises: Link TBD
 
-#### Week 9 (Nov. 19)
+#### Week 9 (Dec. 3)
 **During the meeting:**
 1. Q/A for ERP-tutorial-1 & 2
 2. Additional ERP examples/exercises
