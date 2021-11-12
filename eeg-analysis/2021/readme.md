@@ -92,11 +92,18 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 
 **Before the next meeting:**
 * Watch the following MADE tutorial videos and run the analyses on your local computer
-*part 1: https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635762959000
-*part 2: https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635765974000
-*part 3:  https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635769006000
-*part 4:  TBD
-*part 5:  TBD
+
+    - [Part 1](https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635762959000)
+    
+    - [Part 2](https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635765974000)
+
+    - [Part 3](https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635769006000)
+
+    - [Part 4](https://fiu.zoom.us/rec/play/i_5tbEcknMJYGV8tsm_Fi8Om9oprt6s8SpEC3gLRLZRC5GbpaLHAgtcYpk8o4nAKIcEWFY4ciFxybN4D.BdQXB1kMwYAtvmMq)
+
+    - [Part 5](https://fiu.zoom.us/rec/play/czGtVCOSGIKxjx7qaKZ2iEw4ptZVXBGgKrnFMD14X9qvDR0Ldy9c-MlceQ351o04bi3-DPkruH_TyBTQ.aIQTpC-sEtGC18ZT)
+
+* Download training material at the following [link](https://drive.google.com/drive/folders/1_iIDKdXRwDxEFgC7ySW8wNtvcmAlemPM?usp=sharing)
 
 #### Week 7 (Nov. 12)
 **During the meeting:**
