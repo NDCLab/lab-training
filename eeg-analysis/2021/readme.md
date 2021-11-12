@@ -86,24 +86,20 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 **During the meeting:**
 * Note that data and video(s) were not posted in time. Thus, the live session this week will be slightly different, involving a live walk-through of some of the code, along with normal discussion. 
 1. Continue discussion of MADE paper
-2. MADE-tutorial-1 (live walk through); download this zip file: https://drive.google.com/file/d/1MJYtmuiyxevA20BrQgTABnFAWS0KYJyX/view?usp=sharing
-3. ICA discussion
+2. MADE-tutorial-1 (live walk through); download [this zip file](https://drive.google.com/file/d/1MJYtmuiyxevA20BrQgTABnFAWS0KYJyX/view?usp=sharing
+3. ICA discussion)
 4. General Q/A for MADE-tutorial-1
 
 **Before the next meeting:**
 * Watch the following MADE tutorial videos and run the analyses on your local computer
 
     - [Part 1](https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635762959000)
-    
     - [Part 2](https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635765974000)
-
     - [Part 3](https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635769006000)
-
     - [Part 4](https://fiu.zoom.us/rec/play/i_5tbEcknMJYGV8tsm_Fi8Om9oprt6s8SpEC3gLRLZRC5GbpaLHAgtcYpk8o4nAKIcEWFY4ciFxybN4D.BdQXB1kMwYAtvmMq)
-
     - [Part 5](https://fiu.zoom.us/rec/play/czGtVCOSGIKxjx7qaKZ2iEw4ptZVXBGgKrnFMD14X9qvDR0Ldy9c-MlceQ351o04bi3-DPkruH_TyBTQ.aIQTpC-sEtGC18ZT)
 
-* Download training material at the following [link](https://drive.google.com/drive/folders/1_iIDKdXRwDxEFgC7ySW8wNtvcmAlemPM?usp=sharing)
+* Download training material at the following [link](https://drive.google.com/drive/folders/1_iIDKdXRwDxEFgC7ySW8wNtvcmAlemPM?usp=sharing).
 
 #### Week 7 (Nov. 12)
 **During the meeting:**
