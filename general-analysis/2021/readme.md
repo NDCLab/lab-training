@@ -122,8 +122,8 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
  
 #### Week 11 (Dec. 10)
 **During the meeting:**
-1. Quick review and Q/A for XX
-2. Apply the lessons of XX to our own data (same data as last meeting)
+1. Review of efforts to code the N-Back.
+2. Discussion of t.test and cor.test in R.
 
 **Before the next meeting:**
 * Complete [module 8](https://swcarpentry.github.io/r-novice-gapminder/)
