@@ -106,18 +106,18 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 3. If time: explore the group results and/or start creating a similar script for other data
 
 **Before the next meeting:**
-* Adapt the Week 7 script for the [DCCS](dccs-coding.md) and [N-Back](n-back-coding.md) tasks
-* Complete [module TBD](link) for simple descriptive and inferential statistics
+* Adapt the Week 7 script for either the [DCCS](dccs-coding.md) and [N-Back](n-back-coding.md) tasks
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
 
 #### Week 9 (Nov. 19)
 **During the meeting:**
-1. Quick review and Q/A for XX
-2. Apply the lessons of XX to our own data (same data as last meeting)
+1. Review of efforts to code the DCCS.
+2. Discussion of t.test in R.
 
 **Before the next meeting:**
-* Complete [module 8](https://swcarpentry.github.io/r-novice-gapminder/)
-> (8) Creating Publication-Quality Graphics with ggplot2
+* Adapt the Week 7 script for the other task (DCCS/N-Back).
+* Update DCCS (or include if first attempt) three measures of task switching: switch to the infrequent (COLOR>SHAPE), switch back to the frequent (SHAPE>COLOR), or both.
+* Use t.test and cor.test functions in R on both DCCS and N-Back.
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
  
 #### Week 11 (Dec. 10)
@@ -126,6 +126,8 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 2. Apply the lessons of XX to our own data (same data as last meeting)
 
 **Before the next meeting:**
+* Complete [module 8](https://swcarpentry.github.io/r-novice-gapminder/)
+> (8) Creating Publication-Quality Graphics with ggplot2
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
 
 #### Week 12 tbd
