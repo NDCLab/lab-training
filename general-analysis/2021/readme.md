@@ -122,18 +122,9 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
  
 #### Week 11 (Dec. 10)
 **During the meeting:**
-1. Review of efforts to code the N-Back.
+1. Deep dive into the DCCS.
 2. Discussion of t.test and cor.test in R.
 
 **Before the next meeting:**
-* Complete [module 8](https://swcarpentry.github.io/r-novice-gapminder/)
-> (8) Creating Publication-Quality Graphics with ggplot2
-* Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
-
-#### Week 12 tbd
-**During the meeting:**
-1. Quick review and Q/A for XX
-2. Apply the lessons of XX to our own data (same data as last meeting)
-
-**Before the next meeting:**
+* Attempt to code the N-Back, if you haven't already.
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
