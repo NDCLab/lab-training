@@ -57,7 +57,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
  
 #### Jan 14
 **During the meeting:**
-Review of efforts to code the N-Backa and discussion.
+Review of efforts to code the N-Back and discussion.
 
 **Before the next meeting:**
 * Complete [module 8](https://swcarpentry.github.io/r-novice-gapminder/)
