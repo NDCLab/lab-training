@@ -48,66 +48,63 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 
 ####  Overview
 We will begin by using MATLAB almost entirely. We will learn how to preprocess EEG data using the MADE pipeline, which is based around the EEGLAB toolbox. We will then move onto how to compute/plot/export ERP data and perform basic statistical analyses. We will then move on to time-frequency analyses within the MATLAB-based PTB toolbox, and likely via native MATLAB-based code as well. At this point, the direction in which the working group moves will depend on the needs/interests of the lab; however, the current plan is to move on to source localization via the MATLAB-based FieldTrip toolbox, followed by an increased focus on Python-based analyses using MNE, to include an introduction to the PEPPER pipeline, as well as ERP, time-frequency, and source-based analyses within Python.
+
+#### Jan 21
+**During the meeting:**
+Check in on all group members and progress with preprocessing their chosen datasets.
+
+**Before the next meeting:**
+* Watch the ERP labeling video and apply to your data.
  
-#### Week 1
+#### Feb 4
 **During the meeting:**
-1. Overview of working group
-2. Download/set-up MATLAB and EEGLAB
-    - MATLAB download is user-dependent (will discuss)
-    - [eeglab2021.1](https://sccn.ucsd.edu/eeglab/downloadtoolbox.php)
-3. Explore MATLAB and EEGLAB GUI
-4. Preview of what to do before the next meeting
-5. Discussion of example dataset(s)
-    - Data we will all start with
-    - What data will you “branch off” to?
-    - At what point will you have the skills needed to “branch off” for a paper?
+1. Discuss ERP labeling.
+2. Discuss how to plot ERPs.
 
 **Before the next meeting:**
-* Complete [modules 1-6](https://swcarpentry.github.io/matlab-novice-inflammation/)
-* Read the following three concept pages from the EEGLAB tutorial:
-    - [EEGLAB data structures](https://eeglab.org/tutorials/ConceptsGuide/Data_Structures.html)
-    - [Coordinate systems](https://eeglab.org/tutorials/ConceptsGuide/coordinateSystem.html)
-    - [EEGLAB functions](https://eeglab.org/tutorials/ConceptsGuide/EEGLAB_functions.html)
-* Read the MADE Pipeline paper (Debnath_Buzzell_et_al_2020.pdf)
- 
-#### Week 3
+TBD
+
+#### Feb 18
 **During the meeting:**
-1. Q/A for the software carpentry MATLAB intro
-2. Q/A for EEGLAB data structure, coordinate system, and functions
-3. Begin discussion of MADE paper
+TBD
 
 **Before the next meeting:**
-* Clone the [MADE Pipeline repo](https://github.com/ChildDevLab/MADE-EEG-preprocessing-pipeline)
-* Download the example dataset:  Link TBD
-* Watch MADE-tutorial-1 and perform exercises: Link TBD
-* Note that data and video(s) were not posted in time
- 
-#### Week 5 (Oct. 22)
+TBD
+
+#### Mar 4
 **During the meeting:**
-* Note that data and video(s) were not posted in time. Thus, the live session this week will be slightly different, involving a live walk-through of some of the code, along with normal discussion. 
-1. Continue discussion of MADE paper
-2. MADE-tutorial-1 (live walk through); download [this zip file](https://drive.google.com/file/d/1MJYtmuiyxevA20BrQgTABnFAWS0KYJyX/view?usp=sharing)
-3. ICA discussion
-4. General Q/A for MADE-tutorial-1
+TBD
 
 **Before the next meeting:**
-* Watch the following MADE tutorial videos and run the analyses on your local computer
+TBD
 
-    - [Part 1](https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635762959000)
-    - [Part 2](https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635765974000)
-    - [Part 3](https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635769006000)
-    - [Part 4](https://fiu.zoom.us/rec/play/i_5tbEcknMJYGV8tsm_Fi8Om9oprt6s8SpEC3gLRLZRC5GbpaLHAgtcYpk8o4nAKIcEWFY4ciFxybN4D.BdQXB1kMwYAtvmMq)
-    - [Part 5](https://fiu.zoom.us/rec/play/czGtVCOSGIKxjx7qaKZ2iEw4ptZVXBGgKrnFMD14X9qvDR0Ldy9c-MlceQ351o04bi3-DPkruH_TyBTQ.aIQTpC-sEtGC18ZT)
-
-* Download training material at the following [link](https://drive.google.com/drive/folders/1_iIDKdXRwDxEFgC7ySW8wNtvcmAlemPM?usp=sharing).
-
-#### Week 7 (Nov. 12)
+#### Mar 18
 **During the meeting:**
-1. Q/A for MADE-tutorial-2
-2. Additional MADE examples/exercises
+TBD
 
 **Before the next meeting:**
-* Watch ERP-tutorial-1 and perform exercises: LINK
-* Watch ERP-tutorial-2 and perform exercises: Link TBD
+TBD
+
+#### Apr 1
+**During the meeting:**
+TBD
+
+**Before the next meeting:**
+TBD
+
+#### Apr 15
+**During the meeting:**
+TBD
+
+**Before the next meeting:**
+TBD
+
+#### Apr 29
+**During the meeting:**
+TBD
+
+**Before the next meeting:**
+TBD
+
 
 
