@@ -66,8 +66,8 @@ Review of efforts to code the N-Back and discussion.
 
 #### Jan 28
 **During the meeting:**
-1. Quick review and Q/A for XX
-2. Apply the lessons of XX
+1. Quick review and Q/A for plotting
+2. Apply plotting
 
 **Before the next meeting:**
 * Add at least one contribution to the R standards doc, based on what you learned over the last two weeks, and/or are learning over the next two weeks.
