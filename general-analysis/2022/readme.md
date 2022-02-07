@@ -70,4 +70,13 @@ Review of efforts to code the N-Back and discussion.
 2. Apply plotting
 
 **Before the next meeting:**
+* GEORGE TO ADD HERE
+> [questionnaire data](https://drive.google.com/file/d/1cibiNWQAuuyeRCmd3sQrQxUxN3kHuExP/view?usp=sharing)
+* Add at least one contribution to the R standards doc, based on what you learned over the last two weeks, and/or are learning over the next two weeks.
+
+#### Feb 11
+**During the meeting:**
+1. TBD
+
+**Before the next meeting:**
 * Add at least one contribution to the R standards doc, based on what you learned over the last two weeks, and/or are learning over the next two weeks.
