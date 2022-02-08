@@ -70,7 +70,7 @@ Review of efforts to code the N-Back and discussion.
 2. Apply plotting
 
 **Before the next meeting:**
-* GEORGE TO ADD HERE
+* Merge the questionnaire data with the scored flanker and dccs data. Compute correlations between each of the three Adexi scales and: flanker-correct-incongruent-rt, flanker-correct-congruent-rt, flanker-effect-rt (correct-incongruent minus correct-congruent). Plor scatter plots for each correlation and line of best fit.
 > [questionnaire data](https://drive.google.com/file/d/1cibiNWQAuuyeRCmd3sQrQxUxN3kHuExP/view?usp=sharing)
 * Add at least one contribution to the R standards doc, based on what you learned over the last two weeks, and/or are learning over the next two weeks.
 
