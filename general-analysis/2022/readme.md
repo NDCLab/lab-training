@@ -76,7 +76,16 @@ Review of efforts to code the N-Back and discussion.
 
 #### Feb 11
 **During the meeting:**
-1. TBD
+1. Discuss theory and practice of computing and plotting correlations between ADEXI questionnaire data and flanker task data.
 
 **Before the next meeting:**
-* Add at least one contribution to the R standards doc, based on what you learned over the last two weeks, and/or are learning over the next two weeks.
+* Review theory and PsychoPy output file for Multi-EF task.
+* Review description and data for DDM analysis.
+
+#### Feb 25
+**During the meeting:**
+1. GB: Present inter-rater reliability analysis.
+2. Discuss Multi-EF and DDM analyses.
+
+**Before the next meeting:**
+TBD
