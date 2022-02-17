@@ -55,7 +55,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 
 ## Schedule (work-in-progress)
  
-#### Week 1
+### Sep 24
 **During the meeting:**
 1. Overview of working group
 2. Download/set-up R and RStudio: [instructions here](https://swcarpentry.github.io/r-novice-gapminder/setup.html)
@@ -68,11 +68,11 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 > (3) Seeking Help</br>
 > (4) Data Structures
  
-#### Week 3
+### Oct 8
 **During the meeting:**
 1. Welcome/general comments + need to write lab R standards
 2. Brief review of modules 1-4
-3. Download [flanker dataset](4_ft-flanker-o_s1_r1_e1_2021-06-28_17h09.58.017.csv)
+3. Download [sample flanker file](4_ft-flanker-o_s1_r1_e1_2021-06-28_17h09.58.017.csv)
 4. Discussion of standard datasets for formal trainings (flanker, DCCS; maybe multi-ef-inhibition, multi-ef-switching)
 5. Discussion of datasets each of you will focus on (Flanker, DCCS, N-back, Multi-EF-inhibition, Multi-EF-switching, Multi-EF-memory, CMI behavioral datasets, clinic data, autism-go-nogo data, meta-analysis, questionnaire data, behavioral coding datasets, others?)
 6. Discuss schedule/timeline for remainder of semester and goals
@@ -84,7 +84,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 > (6) Subsetting Data
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
  
-#### Week 5 (Oct. 22)
+### Oct 22
 **During the meeting:**
 1. Admin: Discuss pace of modules and goals. Discuss format/focus of live sessions.
 2. Quick review and Q/A for modules 5-6
@@ -99,7 +99,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
 * _Reminder:_ refresh your memory about these modules the day before the next working group session and check the "Must-Know Concepts" to come prepared for the Q&A :raised_hand:
 
-#### Week 7 (Nov. 5)
+### Nov 5
 **During the meeting:**
 1. Quick review and Q/A for modules 7 and 9
 2. Apply the lessons of module 7 and 9 to our [own data](https://drive.google.com/file/d/1n-3BoSPBkYQmAjs9YrD4LEwz2dILRsDX/view?usp=sharing)
@@ -109,7 +109,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 * Adapt the Week 7 script for either the [DCCS](dccs-coding.md) and [N-Back](n-back-coding.md) tasks
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
 
-#### Week 9 (Nov. 19)
+### Nov 19
 **During the meeting:**
 1. Review of efforts to code the DCCS.
 2. Discussion of t.test in R.
@@ -120,7 +120,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 * Use t.test and cor.test functions in R on both DCCS and N-Back.
 * Add at least one contribution to the R standards doc, based on what you learned over the last 2 week, and/or are learning over the next 2 weeks
  
-#### Week 11 (Dec. 10)
+### Dec 10
 **During the meeting:**
 1. Deep dive into the DCCS.
 2. Discussion of t.test and cor.test in R.

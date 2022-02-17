@@ -55,7 +55,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 
 ## Schedule (work-in-progress)
  
-#### Jan 14
+### Jan 14
 **During the meeting:**
 Review of efforts to code the N-Back and discussion.
 
@@ -64,17 +64,16 @@ Review of efforts to code the N-Back and discussion.
 > (8) Creating Publication-Quality Graphics with ggplot2
 * Add at least one contribution to the R standards doc, based on what you learned over the last two weeks, and/or are learning over the next two weeks.
 
-#### Jan 28
+### Jan 28
 **During the meeting:**
 1. Quick review and Q/A for plotting
 2. Apply plotting
 
 **Before the next meeting:**
-* Merge the questionnaire data with the scored flanker and dccs data. Compute correlations between each of the three Adexi scales and: flanker-correct-incongruent-rt, flanker-correct-congruent-rt, flanker-effect-rt (correct-incongruent minus correct-congruent). Plor scatter plots for each correlation and line of best fit.
-> [questionnaire data](https://drive.google.com/file/d/1cibiNWQAuuyeRCmd3sQrQxUxN3kHuExP/view?usp=sharing)
+* Merge the [questionnaire data](https://drive.google.com/file/d/1cibiNWQAuuyeRCmd3sQrQxUxN3kHuExP/view?usp=sharing) with the scored flanker and dccs data. Compute correlations between each of the three Adexi scales and: flanker-correct-incongruent-rt, flanker-correct-congruent-rt, flanker-effect-rt (correct-incongruent minus correct-congruent). Plor scatter plots for each correlation and line of best fit.
 * Add at least one contribution to the R standards doc, based on what you learned over the last two weeks, and/or are learning over the next two weeks.
 
-#### Feb 11
+### Feb 11
 **During the meeting:**
 1. Discuss theory and practice of computing and plotting correlations between ADEXI questionnaire data and flanker task data.
 
@@ -82,7 +81,7 @@ Review of efforts to code the N-Back and discussion.
 * Review theory and PsychoPy output file for Multi-EF task.
 * Review description and data for DDM analysis.
 
-#### Feb 25
+### Feb 25
 **During the meeting:**
 1. GB: Present inter-rater reliability analysis.
 2. Discuss Multi-EF and DDM analyses.
