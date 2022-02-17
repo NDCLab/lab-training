@@ -117,5 +117,9 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 
 **Before the next meeting:**
 * Work on labeling script for your data
+> * your own, existing dataset</br>
+> * the ERP-Core flanker dataset for ERN on the HPC (`erp-core-flanker-dataset`)
+> * another dataset from the [ERP-Core](https://osf.io/thsqg/)
+> * any other solid dataset
 
 
