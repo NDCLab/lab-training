@@ -51,8 +51,8 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 
 ### Jan 21
 **During the meeting:**
-{not recorded as just a check-in}
-Check in on all group members and progress with preprocessing their chosen datasets.
+{not recorded}
+1. Check in on all group members and progress with preprocessing their chosen datasets.
 
 **Before the next meeting:**
 * Watch the ERP labeling video and apply to your data.
