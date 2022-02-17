@@ -46,10 +46,10 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 
 ## Schedule (work-in-progress)
 
-####  Overview
+###  Overview
 We will begin by using MATLAB almost entirely. We will learn how to preprocess EEG data using the MADE pipeline, which is based around the EEGLAB toolbox. We will then move onto how to compute/plot/export ERP data and perform basic statistical analyses. We will then move on to time-frequency analyses within the MATLAB-based PTB toolbox, and likely via native MATLAB-based code as well. At this point, the direction in which the working group moves will depend on the needs/interests of the lab; however, the current plan is to move on to source localization via the MATLAB-based FieldTrip toolbox, followed by an increased focus on Python-based analyses using MNE, to include an introduction to the PEPPER pipeline, as well as ERP, time-frequency, and source-based analyses within Python.
 
-#### Jan 21
+### Jan 21
 **During the meeting:**
 {not recorded as just a check-in}
 Check in on all group members and progress with preprocessing their chosen datasets.
@@ -57,7 +57,7 @@ Check in on all group members and progress with preprocessing their chosen datas
 **Before the next meeting:**
 * Watch the ERP labeling video and apply to your data.
  
-#### Feb 4
+### Feb 4
 **During the meeting:**
 {[video](https://fiu.zoom.us/rec/share/BYw6XVz9a1ofFn48e5fvivVYFpwTrJP7O1ASmHHhfWYSFJu8Xu9JIacF05OtPwRw.QXptyuBmCAKnJt1O?startTime=1643992538000)}
 1. Discuss ERP labeling.
@@ -66,42 +66,42 @@ Check in on all group members and progress with preprocessing their chosen datas
 **Before the next meeting:**
 * Continue to work on labeling and processing your data.
 
-#### Feb 18
+### Feb 18
 **During the meeting:**
 TBD
 
 **Before the next meeting:**
 TBD
 
-#### Mar 4
+### Mar 4
 **During the meeting:**
 TBD
 
 **Before the next meeting:**
 TBD
 
-#### Mar 18
+### Mar 18
 **During the meeting:**
 TBD
 
 **Before the next meeting:**
 TBD
 
-#### Apr 1
+### Apr 1
 **During the meeting:**
 TBD
 
 **Before the next meeting:**
 TBD
 
-#### Apr 15
+### Apr 15
 **During the meeting:**
 TBD
 
 **Before the next meeting:**
 TBD
 
-#### Apr 29
+### Apr 29
 **During the meeting:**
 TBD
 
