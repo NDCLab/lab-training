@@ -51,6 +51,7 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 
 #### Jan 21
 **During the meeting:**
+{not recorded as just a check-in}
 Check in on all group members and progress with preprocessing their chosen datasets.
 
 **Before the next meeting:**
@@ -58,11 +59,12 @@ Check in on all group members and progress with preprocessing their chosen datas
  
 #### Feb 4
 **During the meeting:**
+{[video](https://fiu.zoom.us/rec/share/BYw6XVz9a1ofFn48e5fvivVYFpwTrJP7O1ASmHHhfWYSFJu8Xu9JIacF05OtPwRw.QXptyuBmCAKnJt1O?startTime=1643992538000)}
 1. Discuss ERP labeling.
 2. Discuss how to plot ERPs.
 
 **Before the next meeting:**
-TBD
+* Continue to work on labeling and processing your data.
 
 #### Feb 18
 **During the meeting:**

@@ -49,8 +49,9 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 ####  Overview
 We will begin by using MATLAB almost entirely. We will learn how to preprocess EEG data using the MADE pipeline, which is based around the EEGLAB toolbox. We will then move onto how to compute/plot/export ERP data and perform basic statistical analyses. We will then move on to time-frequency analyses within the MATLAB-based PTB toolbox, and likely via native MATLAB-based code as well. At this point, the direction in which the working group moves will depend on the needs/interests of the lab; however, the current plan is to move on to source localization via the MATLAB-based FieldTrip toolbox, followed by an increased focus on Python-based analyses using MNE, to include an introduction to the PEPPER pipeline, as well as ERP, time-frequency, and source-based analyses within Python.
  
-#### Week 1
+#### Oct 1
 **During the meeting:**
+{video [part 1](https://fiu.zoom.us/rec/share/M6I0qziePBK5WRXCodmXEKWzr560YhgI0mPN7WWp5kpkFUMYzoTIYFcvU88HEA6D.HziF0HhFsI6j95yO?startTime=1633093966000) | [part 2](https://fiu.zoom.us/rec/share/M6I0qziePBK5WRXCodmXEKWzr560YhgI0mPN7WWp5kpkFUMYzoTIYFcvU88HEA6D.HziF0HhFsI6j95yO?startTime=1633096306000)}
 1. Overview of working group
 2. Download/set-up MATLAB and EEGLAB
     - MATLAB download is user-dependent (will discuss)
@@ -70,25 +71,25 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
     - [EEGLAB functions](https://eeglab.org/tutorials/ConceptsGuide/EEGLAB_functions.html)
 * Read the MADE Pipeline paper (Debnath_Buzzell_et_al_2020.pdf)
  
-#### Week 3
+#### Oct 19
 **During the meeting:**
+{[video](https://fiu.zoom.us/rec/share/Ft9z1_33AF-hcSHZa1GHPXU_n8U40Jhz3Q2ykP_XvHdazMxXQ6DtIadr50eNTbE.3WT7Gq1UbCaDOG-h?startTime=1634648870000)}
 1. Q/A for the software carpentry MATLAB intro
 2. Q/A for EEGLAB data structure, coordinate system, and functions
 3. Begin discussion of MADE paper
 
 **Before the next meeting:**
 * Clone the [MADE Pipeline repo](https://github.com/ChildDevLab/MADE-EEG-preprocessing-pipeline)
-* Download the example dataset:  Link TBD
-* Watch MADE-tutorial-1 and perform exercises: Link TBD
-* Note that data and video(s) were not posted in time
+* Download the example dataset and watch MADE tutorial (note that data and video(s) were not posted in time)
  
-#### Week 5 (Oct. 22)
+#### Oct 29
 **During the meeting:**
+{[video](https://fiu.zoom.us/rec/share/051mENmM6G3sflc-ntVmnUma7T_z6i65Ns-u7MY6zpBrHwjHi42od4zMrZlnYL8m.6uT-KmZK0LJWLPBQ?startTime=1635512693000)}
 * Note that data and video(s) were not posted in time. Thus, the live session this week will be slightly different, involving a live walk-through of some of the code, along with normal discussion. 
 1. Continue discussion of MADE paper
-2. MADE-tutorial-1 (live walk through); download [this zip file](https://drive.google.com/file/d/1MJYtmuiyxevA20BrQgTABnFAWS0KYJyX/view?usp=sharing)
+2. MADE tutorial live walk-through; download [this zip file](https://drive.google.com/file/d/1MJYtmuiyxevA20BrQgTABnFAWS0KYJyX/view?usp=sharing)
 3. ICA discussion
-4. General Q/A for MADE-tutorial-1
+4. General Q/A for MADE
 
 **Before the next meeting:**
 * Watch the following MADE tutorial videos and run the analyses on your local computer
@@ -99,15 +100,22 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
     - [Part 4](https://fiu.zoom.us/rec/play/i_5tbEcknMJYGV8tsm_Fi8Om9oprt6s8SpEC3gLRLZRC5GbpaLHAgtcYpk8o4nAKIcEWFY4ciFxybN4D.BdQXB1kMwYAtvmMq)
     - [Part 5](https://fiu.zoom.us/rec/play/czGtVCOSGIKxjx7qaKZ2iEw4ptZVXBGgKrnFMD14X9qvDR0Ldy9c-MlceQ351o04bi3-DPkruH_TyBTQ.aIQTpC-sEtGC18ZT)
 
-* Download training material at the following [link](https://drive.google.com/drive/folders/1_iIDKdXRwDxEFgC7ySW8wNtvcmAlemPM?usp=sharing).
-
-#### Week 7 (Nov. 12)
+#### Nov 12
 **During the meeting:**
-1. Q/A for MADE-tutorial-2
+{[video](https://fiu.zoom.us/rec/share/O9weuZ9jFUkEpE6K83Pj8QziDA86_IGFt7iNHOJeCfWEfdc57TzShnRfhrJEX3mM.8wXXts9K0C4oe5I4?startTime=1636726182000)}
+1. Q/A for MADE tutorial
 2. Additional MADE examples/exercises
 
 **Before the next meeting:**
-* Watch ERP-tutorial-1 and perform exercises: LINK
-* Watch ERP-tutorial-2 and perform exercises: Link TBD
+* Watch [ERP tutorial video](https://fiu.zoom.us/rec/share/OgBhn6cdEpCOk29Jb_yRj56R0pNAfNGnzfozipFu5Z4g134t0V4L2St_daBrZSyQ.e7U__B9vADRM_7Ar?startTime=1639616378000)
+
+#### Dec 17
+**During the meeting:**
+{[video](https://fiu.zoom.us/rec/share/jXIDggMfn3i_y5xnsrG4I-wGXlM3a35yQdH7pwQqIT_LkLqMh-1fCMFq_IRHw9RW.1-zCyDVTHUVw5jVh?startTime=1639749937000)}
+1. Walk-through and Q/A for ERP Labeling
+2. Discuss complexities with EGI and E-Prime
+
+**Before the next meeting:**
+* Work on labeling script for your data
 
 
