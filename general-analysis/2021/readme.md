@@ -57,6 +57,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
  
 ### Sep 24
 **During the meeting:**
+{not recorded}
 1. Overview of working group
 2. Download/set-up R and RStudio: [instructions here](https://swcarpentry.github.io/r-novice-gapminder/setup.html)
 3. Explore the RStudio interface (and help others)
@@ -70,6 +71,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
  
 ### Oct 8
 **During the meeting:**
+{[video](https://fiu.zoom.us/rec/share/nE5y0aXr8TJMmVd-HSGQTrqqXnj8qGIpVvDG4LbvHIfryfGRgnQcBeUKAa4FY-lJ.kMTnFmGq5AG2boDw?startTime=1633699627000)}
 1. Welcome/general comments + need to write lab R standards
 2. Brief review of modules 1-4
 3. Download [sample flanker file](4_ft-flanker-o_s1_r1_e1_2021-06-28_17h09.58.017.csv)
@@ -86,6 +88,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
  
 ### Oct 22
 **During the meeting:**
+{[video](https://fiu.zoom.us/rec/share/CFMScJPA1-i1ENBO6F4Q7mBMCp8y848TUqTHc3ElJCbJVC9eKLVw51Sw6UROGSEE.IOBanUH4G01gJSrB?startTime=1634908767000)}
 1. Admin: Discuss pace of modules and goals. Discuss format/focus of live sessions.
 2. Quick review and Q/A for modules 5-6
 3. Apply the lessons of module 5/6 to our own data (same data as last meeting)
@@ -101,6 +104,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 
 ### Nov 5
 **During the meeting:**
+{[video](https://fiu.zoom.us/rec/share/BhlGENEd505jaAGrMR0z57nhAgU1zbkn8K096rz8X22M6QPASYywAD9Ele5pfhnG.tLzPto5Pc2VO7vxR?startTime=1636118308000)}
 1. Quick review and Q/A for modules 7 and 9
 2. Apply the lessons of module 7 and 9 to our [own data](https://drive.google.com/file/d/1n-3BoSPBkYQmAjs9YrD4LEwz2dILRsDX/view?usp=sharing)
 3. If time: explore the group results and/or start creating a similar script for other data
@@ -111,6 +115,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 
 ### Nov 19
 **During the meeting:**
+{[video](https://fiu.zoom.us/rec/share/r-pACWJd5MWZFdt0_fteCEjZVQM_krcc0bCQ8XpNSpcUNJc1WyycfVA_zni6Hc4S.AS1RHf7_-coYwKMY?startTime=1637330940000)}
 1. Review of efforts to code the DCCS.
 2. Discussion of t.test in R.
 
@@ -122,6 +127,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
  
 ### Dec 10
 **During the meeting:**
+{[video](https://fiu.zoom.us/rec/share/aga2tZI3Cx7D-IaEkKIwy8_P8XO3Z7pKp1g4Cu3Tx_kv8OiNex_FpRUjKOxYXJYK.AA9s4WiObq4bHaaI?startTime=1639145555000)}
 1. Deep dive into the DCCS.
 2. Discussion of t.test and cor.test in R.
 
