@@ -59,7 +59,7 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
  
 ### Feb 4
 **During the meeting:**
-{[video](https://fiu.zoom.us/rec/share/BYw6XVz9a1ofFn48e5fvivVYFpwTrJP7O1ASmHHhfWYSFJu8Xu9JIacF05OtPwRw.QXptyuBmCAKnJt1O?startTime=1643992538000)}
+{[video](https://youtu.be/SiSMRaA8ppI)}
 1. Discuss ERP labeling.
 2. Discuss how to plot ERPs.
 

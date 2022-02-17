@@ -51,7 +51,7 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
  
 ### Oct 1
 **During the meeting:**
-{video [part 1](https://fiu.zoom.us/rec/share/M6I0qziePBK5WRXCodmXEKWzr560YhgI0mPN7WWp5kpkFUMYzoTIYFcvU88HEA6D.HziF0HhFsI6j95yO?startTime=1633093966000) | [part 2](https://fiu.zoom.us/rec/share/M6I0qziePBK5WRXCodmXEKWzr560YhgI0mPN7WWp5kpkFUMYzoTIYFcvU88HEA6D.HziF0HhFsI6j95yO?startTime=1633096306000)}
+{video [part 1](https://youtu.be/ZQ94uBOhC0g) | [part 2](https://youtu.be/hmKwoIIoTos)}
 1. Overview of working group
 2. Download/set-up MATLAB and EEGLAB
     - MATLAB download is user-dependent (will discuss)
@@ -73,7 +73,7 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
  
 ### Oct 19
 **During the meeting:**
-{[video](https://fiu.zoom.us/rec/share/Ft9z1_33AF-hcSHZa1GHPXU_n8U40Jhz3Q2ykP_XvHdazMxXQ6DtIadr50eNTbE.3WT7Gq1UbCaDOG-h?startTime=1634648870000)}
+{[video](https://youtu.be/9qeaPCNBBm8)}
 1. Q/A for the software carpentry MATLAB intro
 2. Q/A for EEGLAB data structure, coordinate system, and functions
 3. Begin discussion of MADE paper
@@ -84,7 +84,7 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
  
 ### Oct 29
 **During the meeting:**
-{[video](https://fiu.zoom.us/rec/share/051mENmM6G3sflc-ntVmnUma7T_z6i65Ns-u7MY6zpBrHwjHi42od4zMrZlnYL8m.6uT-KmZK0LJWLPBQ?startTime=1635512693000)}
+{[video](https://youtu.be/rR1VbNq71ps)}
 * Note that data and video(s) were not posted in time. Thus, the live session this week will be slightly different, involving a live walk-through of some of the code, along with normal discussion. 
 1. Continue discussion of MADE paper
 2. MADE tutorial live walk-through; download [this zip file](https://drive.google.com/file/d/1MJYtmuiyxevA20BrQgTABnFAWS0KYJyX/view?usp=sharing)
@@ -94,24 +94,24 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 **Before the next meeting:**
 * Watch the following MADE tutorial videos and run the analyses on your local computer
 
-    - [Part 1](https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635762959000)
-    - [Part 2](https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635765974000)
-    - [Part 3](https://fiu.zoom.us/rec/share/0PPeThHHQ-zelWzY1-keqd6fLVokSfQO7Cy1_AJ6JRmTGUnPQ-HNq4mWEWtYQ0BQ.Xuaugum1qZLyTRrw?startTime=1635769006000)
-    - [Part 4](https://fiu.zoom.us/rec/play/i_5tbEcknMJYGV8tsm_Fi8Om9oprt6s8SpEC3gLRLZRC5GbpaLHAgtcYpk8o4nAKIcEWFY4ciFxybN4D.BdQXB1kMwYAtvmMq)
-    - [Part 5](https://fiu.zoom.us/rec/play/czGtVCOSGIKxjx7qaKZ2iEw4ptZVXBGgKrnFMD14X9qvDR0Ldy9c-MlceQ351o04bi3-DPkruH_TyBTQ.aIQTpC-sEtGC18ZT)
+    - [Part 1](https://youtu.be/0FG9_cp_5sE)
+    - [Part 2](https://youtu.be/S17vmdl6nx0)
+    - [Part 3](https://youtu.be/HLy-OeRdxOY)
+    - [Part 4](https://youtu.be/_yRQKqhig00)
+    - [Part 5](https://youtu.be/Hlu5JNqTjxc)
 
 ### Nov 12
 **During the meeting:**
-{[video](https://fiu.zoom.us/rec/share/O9weuZ9jFUkEpE6K83Pj8QziDA86_IGFt7iNHOJeCfWEfdc57TzShnRfhrJEX3mM.8wXXts9K0C4oe5I4?startTime=1636726182000)}
+{[video](https://youtu.be/UnUD3gUSgeA)}
 1. Q/A for MADE tutorial
 2. Additional MADE examples/exercises
 
 **Before the next meeting:**
-* Watch [ERP tutorial video](https://fiu.zoom.us/rec/share/OgBhn6cdEpCOk29Jb_yRj56R0pNAfNGnzfozipFu5Z4g134t0V4L2St_daBrZSyQ.e7U__B9vADRM_7Ar?startTime=1639616378000)
+* Watch [ERP tutorial video](https://youtu.be/5nys5Ff_vdA)
 
 ### Dec 17
 **During the meeting:**
-{[video](https://fiu.zoom.us/rec/share/jXIDggMfn3i_y5xnsrG4I-wGXlM3a35yQdH7pwQqIT_LkLqMh-1fCMFq_IRHw9RW.1-zCyDVTHUVw5jVh?startTime=1639749937000)}
+{[video](https://youtu.be/nhJdeka8RLg)}
 1. Walk-through and Q/A for ERP Labeling
 2. Discuss complexities with EGI and E-Prime
 
