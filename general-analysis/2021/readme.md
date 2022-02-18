@@ -71,7 +71,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
  
 ### Oct 8
 **During the meeting:**
-{[video](https://fiu.zoom.us/rec/share/nE5y0aXr8TJMmVd-HSGQTrqqXnj8qGIpVvDG4LbvHIfryfGRgnQcBeUKAa4FY-lJ.kMTnFmGq5AG2boDw?startTime=1633699627000)}
+{[video](https://youtu.be/BdZvJjEDgBw)}
 1. Welcome/general comments + need to write lab R standards
 2. Brief review of modules 1-4
 3. Download [sample flanker file](4_ft-flanker-o_s1_r1_e1_2021-06-28_17h09.58.017.csv)
@@ -88,7 +88,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
  
 ### Oct 22
 **During the meeting:**
-{[video](https://fiu.zoom.us/rec/share/CFMScJPA1-i1ENBO6F4Q7mBMCp8y848TUqTHc3ElJCbJVC9eKLVw51Sw6UROGSEE.IOBanUH4G01gJSrB?startTime=1634908767000)}
+{[video](https://youtu.be/jcR8bbFXrWE)}
 1. Admin: Discuss pace of modules and goals. Discuss format/focus of live sessions.
 2. Quick review and Q/A for modules 5-6
 3. Apply the lessons of module 5/6 to our own data (same data as last meeting)
