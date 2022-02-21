@@ -104,7 +104,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 
 ### Nov 5
 **During the meeting:**
-{[video](https://fiu.zoom.us/rec/share/BhlGENEd505jaAGrMR0z57nhAgU1zbkn8K096rz8X22M6QPASYywAD9Ele5pfhnG.tLzPto5Pc2VO7vxR?startTime=1636118308000)}
+{[video](https://youtu.be/5q5ggKFjcNM)}
 1. Quick review and Q/A for modules 7 and 9
 2. Apply the lessons of module 7 and 9 to our [own data](https://drive.google.com/file/d/1n-3BoSPBkYQmAjs9YrD4LEwz2dILRsDX/view?usp=sharing)
 3. If time: explore the group results and/or start creating a similar script for other data
@@ -115,7 +115,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
 
 ### Nov 19
 **During the meeting:**
-{[video](https://fiu.zoom.us/rec/share/r-pACWJd5MWZFdt0_fteCEjZVQM_krcc0bCQ8XpNSpcUNJc1WyycfVA_zni6Hc4S.AS1RHf7_-coYwKMY?startTime=1637330940000)}
+{[video](https://youtu.be/n3y8El9xz2k)}
 1. Review of efforts to code the DCCS.
 2. Discussion of t.test in R.
 
@@ -127,7 +127,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
  
 ### Dec 10
 **During the meeting:**
-{[video](https://fiu.zoom.us/rec/share/aga2tZI3Cx7D-IaEkKIwy8_P8XO3Z7pKp1g4Cu3Tx_kv8OiNex_FpRUjKOxYXJYK.AA9s4WiObq4bHaaI?startTime=1639145555000)}
+{[video](https://youtu.be/tJiEJStZAdQ)}
 1. Deep dive into the DCCS.
 2. Discussion of t.test and cor.test in R.
 

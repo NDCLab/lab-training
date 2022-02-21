@@ -57,7 +57,7 @@ Who will lead the live meetings each week? Sometimes George, sometimes others. T
  
 ### Jan 14
 **During the meeting:**
-{[video](https://fiu.zoom.us/rec/share/MwoDT9o4VcCnjIUXco3FP-h-LSEjcRPdRRhH5Rz2ElFZae1FMBoIvb6TA-DvM5gp.Zc9VuAGIGCPcslFt?startTime=1642176671000)}
+{[video](https://youtu.be/SCEMhNwU99g)}
 Review of efforts to code the N-Back and discussion.
 
 **Before the next meeting:**
@@ -67,7 +67,7 @@ Review of efforts to code the N-Back and discussion.
 
 ### Jan 28
 **During the meeting:**
-{[video](https://fiu.zoom.us/rec/share/N_K-_5nrjqeDzNV5E8rs0RXICxBL4wd_OFhXeAIK38mAdKH7-hMsP6Pnv4h5yqo.vWxTJSlWeB4hygzg?startTime=1643386964000)}
+{[video](https://youtu.be/1K1gYNhuiJc)}
 1. Quick review and Q/A for plotting
 2. Apply plotting
 
@@ -77,7 +77,7 @@ Review of efforts to code the N-Back and discussion.
 
 ### Feb 11
 **During the meeting:**
-{[video](https://fiu.zoom.us/rec/share/NHwjY08_VGVmzBQqELC4WhzzBssnQpolKSqskBzGj1vxG4oB-D48hnmmSBKzxXvH.XN6tBGRQtKi-4p6P?startTime=1644596494000)}
+{[video](https://youtu.be/Wi8EbtHseRw)}
 1. Discuss theory and practice of computing and plotting correlations between ADEXI questionnaire data and flanker task data.
 
 **Before the next meeting:**
