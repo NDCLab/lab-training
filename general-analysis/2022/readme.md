@@ -86,8 +86,17 @@ Review of efforts to code the N-Back and discussion.
 
 ### Feb 25
 **During the meeting:**
-1. GB: Present inter-rater reliability analysis.
+{[video](https://youtu.be/A0J_aNuPyqw)}
+1. GB: Present inter-rater reliability analysis ([sample data](https://drive.google.com/file/d/1i2ZJSVSsyPlqHy-xaXwkDZhm3PAagmjG/view?usp=sharing) | script (prelim_reliability.R) in this directory).
 2. Discuss Multi-EF and DDM analyses.
+
+**Before the next meeting:**
+* Code Multi-EF preprocessing and analysis script. (Data [here](https://drive.google.com/file/d/1NMRD6TEq2bS07dbiaj3rt8GuP5r6H4O8/view?usp=sharing).)
+
+### Mar 11
+**During the meeting:**
+{[video]()}
+1. Discuss Multi-EF preprocessing and analyses.
 
 **Before the next meeting:**
 TBD
