@@ -65,13 +65,9 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 
 **Before the next meeting:**
 * Continue to work on labeling and processing your data.
-
-### Feb 18
-**During the meeting:**
-TBD
-
-**Before the next meeting:**
-TBD
+* Review ERP plotting script ([script](postProcessing_trialCounts_erpPlots_erpMeans.m) | [overview](postProcessing_trialCounts_erpPlots_erpMeans.txt)).
+* Try to create plots and export ERP mean values.
+* Compute t-test.
 
 ### Mar 4
 **During the meeting:**

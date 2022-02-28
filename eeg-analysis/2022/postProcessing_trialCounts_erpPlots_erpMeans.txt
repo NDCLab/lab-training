@@ -1,0 +1,21 @@
+Attached here, is a script that will run on the ERPcore data (and  very easily modified for any other EEG data). This script takes as an input the preprocessed data we have already created using the MADE pipeline. The scrip has several modular parts to it, which should be sufficient for allowing you to do all the remaining things needed to plot and analyze ERP data.
+
+The first part of the script counts the number of trials per condition for the data you submit to it. This is important, because you should remover participants with too few trials from further analyses. How few is too few? That depends on the specific ERP component, but for the ERN, the focus of the ERPcore Flanker dataset we have been working with, prior studies suggest that you should remove participants with less than 6 trials.
+
+The second part of the script pulls in the data from each participant and selects specific condtions of interest, and then averages across trials within a given condition to compute ERPs. This data is then stored in a mat file that can be referenced later.
+
+The third part of the script is where things start to get really fun: plotting your very own ERPs! This part of the script will allow you to select and plot ERPs at specific electrodes (or clusters of electrodes). This code can be used to create publication-quality figures (in fact, variations on this same code is what I have used in several prior publications).
+
+The fourth part of the script allows you to create topographical ("topo") plots of ERP components. That is, you are able to select specific time windows of interest and then plot the topography across the scalp, to include plotting differences between conditions.
+
+Finally, the fifth part of the script allows you to specify specific electrode(s) and time windows in which to compute an average value for each ERP, seperately for conditions (as well as difference scores) and then save these values to disk. This is done seperately for each participant. The resulting csv file can then be readily imported into r (or spss, but we all know better than to use SPSS, right?!) in order to run statistical analyses. For example, you could run a t-test to compare the ERN and CRN to test for a significant difference. Or, if you have other data available (e.g., anxiety scores) you could then easily combine that with the exported ERP means and test whether a given ERP correlates with another measure of interest (e.g., anxiety).
+
+In sum, the script attached here, in conjunction with use of the MADE preprocessing script we have been using, provides everything you need to take raw EEG data, process it, make plots, compute mean values that can be exported, and finally, with some basic knowledge of statistics, you can also perform hypothesis tests.
+
+Please note that I decided not to make a video for this, and instead opted to spend the time fleshing out this complete script (with detailed comments). I would like for everyone to try to use this script to create plots and export ERP mean values. And then, ideally, for those that know minimal R, please go ahead and attempt to compute at least a t-test on the data.
+
+At the next working group meeting, we can go over more details about this script, how one might modify it, and if time, we can perhaps go over some basics of statistical tests in R.
+
+As always, please, please, please, post any questions you have, or issues that arise, as you attempt to use these scripts.
+
+PS: Note that the script is currently set up to only process data from one participants file. However, I encourage you to make minor modifications to process data from at least 2 or more participants (ideally 10+ or even the full ERPcore dataset).
