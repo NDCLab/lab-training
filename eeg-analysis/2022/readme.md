@@ -71,10 +71,11 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 
 ### Mar 4
 **During the meeting:**
-TBD
+{[video](https://youtu.be/WfiYoyHCtgE)}
+1. Discuss ERP plotting.
 
 **Before the next meeting:**
-TBD
+* Continue to work on plotting your data, exporting ERP mean values, and computing t-tests.
 
 ### Mar 18
 **During the meeting:**
