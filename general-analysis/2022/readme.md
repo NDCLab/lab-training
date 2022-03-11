@@ -95,8 +95,6 @@ Review of efforts to code the N-Back and discussion.
 
 ### Mar 11
 **During the meeting:**
-{[video]()}
 1. Discuss Multi-EF preprocessing and analyses.
 
-**Before the next meeting:**
-TBD
+{general analysis working group paused for the semester}
