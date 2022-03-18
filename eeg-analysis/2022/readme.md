@@ -78,11 +78,12 @@ We will begin by using MATLAB almost entirely. We will learn how to preprocess E
 * Continue to work on plotting your data, exporting ERP mean values, and computing t-tests.
 
 ### Mar 18
+{[video](https://youtu.be/DUtIOvdBK9k)}
 **During the meeting:**
-TBD
+1. Discuss group questions related to preprocessing at 1024 Hz and ERP plotting.
 
 **Before the next meeting:**
-TBD
+* Continue to work on plotting your data, exporting ERP mean values, and computing t-tests.
 
 ### Apr 1
 **During the meeting:**
