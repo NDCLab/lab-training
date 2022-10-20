@@ -12,5 +12,5 @@ The EEG training group provides a place to share high-level concepts and practic
 * recent observations
 
 ### Oct 20
-{video} | {[agenda](https://docs.google.com/document/d/17LBfIAZJlgaE3HcpiIAiNeA9u2r2ee5rrmDkQY5mG9s/edit?usp=sharing)}
+{[video](https://youtu.be/Duw4yhZVDgI)} | {[agenda](https://docs.google.com/document/d/17LBfIAZJlgaE3HcpiIAiNeA9u2r2ee5rrmDkQY5mG9s/edit?usp=sharing)}
 * impedance
