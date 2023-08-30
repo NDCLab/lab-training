@@ -14,3 +14,7 @@ The EEG training group provides a place to share high-level concepts and practic
 ### Mar 31
 {[video](https://youtu.be/uQeHWVkJGWw)} | {[agenda](https://docs.google.com/document/d/1RYMdjTZ5v_Ys08apKdRoUST3KOBZPWp1bfzEjd8dKyE/edit?usp=sharing)} | {[slides](https://docs.google.com/presentation/d/1JdW4pBych1CdzAVhqbYUyIPDitt1kODJ/edit?usp=sharing&ouid=111423182084086415442&rtpof=true&sd=true)}
 * considerations for collecting EEG data from children
+
+### Aug 25
+{[video](https://youtu.be/2NPeg4pSnRs)} | {[agenda](https://docs.google.com/document/d/1N_Ue-jDokHFmLia2fVz66VhhMdxLjL6X2e66b1M-gXU/edit?usp=sharing)} | {[slides](https://docs.google.com/presentation/d/1LL0QHj3rn-WHJqxIyWK-9pUp4dLlFnvz/edit?usp=sharing&ouid=111423182084086415442&rtpof=true&sd=true)}
+* accommodating diverse hair in EEG
